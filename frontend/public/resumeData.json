@@ -1,0 +1,128 @@
+{
+  "main": {
+    "name": "Raysa Aurrecochea",
+    "occupation": "Front End Software Developer",
+    "description": "currently employed by Fitch Solutions where I push pixels, shuffle data and talk to my rubber duck until everything works",
+    "image": "profilepic.jpg",
+    "bio": "I'm a water sports/caribbean weather lover with a passion for coding and learning experiences. Born in Havana, Cuba, I made my move to the States where I work now as a Front End Software Developer for Fitch Group. I love to be challange because chances are I'm going to learn and grow from it. Outside of work I'm an avid kitesurfer, yogi and nature lover. I love to travel and explore new places to connect with different cultures and people.",
+    "contactmessage": "Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email or by using the form below if you'd like to get in contact with me.",
+    "email": "aurrecochearaysa@gmail.com",
+    "phone": "+1 3124296926",
+    "address": {
+      "street": "(Your Street)",
+      "city": "Remote",
+      "state": "(Your State)",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "https://www.raysa.me",
+    "resumedownload": "",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/raysa-aurrecochea/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/raysa_aurre/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/aurre",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "University of Havana",
+        "degree": "Bachelor's Degree in Industrial and Organizational Psychology",
+        "graduated": "April 2015",
+        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      },
+      {
+        "school": "The Grace Hopper Program at Fullstack Academy",
+        "degree": "Certificate Software Engineering Immersive Program",
+        "graduated": "July 2018",
+        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      }
+    ],
+    "work": [
+      {
+        "company": "Fitch Solutions, Chicago IL",
+        "title": "Front-End Software Developer",
+        "years": "Nov 2019 – Present",
+        "description": "Establish appropriate office hours to deliver effective training to cross-functional team members for seamless on-boarding onto web-client codebase. Oversee the development and deployment of roadmap deliverables within scope and timelines through collaboration with stakeholders, team members, and UX resources."
+      },
+      {
+        "company": "Randstad Technologies US, Chicago IL",
+        "title": "Front-End Software Developer",
+        "years": "Nov 2018 – Nov 2019",
+        "description": "Maximized client/user experience by maintaining the website. Participated in scrum ceremonies like daily standups, grooming sessions, sprint planning, and sprint retrospective."
+      },
+      {
+        "company": "AdaptiGroup LLC",
+        "title": "Front-End Software Developer",
+        "years": "Apr 2018 – Nov 2018",
+        "description": "Managed and streamlined the project by gathering all visual and functional requirements. Increased browser support after a rewrite of customer-targeted marketing emails and turned the website into a Single Page Application (SPA)."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "level": "80%"
+      },
+      {
+        "name": "Jest",
+        "level": "60%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "60%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "VueJs",
+        "level": "90%"
+      },
+      {
+        "name": "GraphQL",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Fitch Connect",
+        "category": "A Vue based finacial website",
+        "image": "fitch-connect-web.jpg",
+        "url": "https://app.fitchconnect.com/"
+      },
+      {
+        "title": "AdaptiBar",
+        "category": "A Nuxt based marketing website.",
+        "image": "adaptibar-website.jpg",
+        "url": "https://www.adaptibar.com/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Raysa and I were part of the same team at Fullstack Academy. I was incredibly impressed by her work ethic and dedication to the pursuit of her education. The amount of time and effort she put in was clearly visible in the quality of her work and served as an inspiration for me. I would gladly work together with her again and I know that she will be a great role model for future developers! ",
+        "user": "Eric Guo"
+      }
+    ]
+  }
+}
