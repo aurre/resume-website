@@ -8,6 +8,6 @@ This is a ReactJS based personal resume website to reflect my experience as Soft
 
 ## How to run locally. Run from root foler the following 2 commands:
 
-# npm run start
+# docker-compose build
 
-# node server/index.js
+# docker-compose up

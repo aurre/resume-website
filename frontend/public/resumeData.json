@@ -72,28 +72,32 @@
     ],
     "skills": [
       {
-        "name": "Git",
+        "name": "JavaScript",
         "level": "80%"
       },
       {
-        "name": "Jest",
-        "level": "60%"
+        "name": "CSS",
+        "level": "80%"
+      },
+      {
+        "name": "HTML",
+        "level": "80%"
+      },
+      {
+        "name": "VueJs",
+        "level": "90%"
       },
       {
         "name": "ReactJs",
         "level": "60%"
       },
       {
-        "name": "CSS",
-        "level": "90%"
-      },
-      {
-        "name": "HTML5",
+        "name": "Git",
         "level": "80%"
       },
       {
-        "name": "VueJs",
-        "level": "90%"
+        "name": "Jest",
+        "level": "60%"
       },
       {
         "name": "GraphQL",
